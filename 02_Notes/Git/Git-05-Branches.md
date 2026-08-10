@@ -68,3 +68,12 @@ It is not a separate copy of the entire project.
 ## My Understanding
 
 A branch allows me to create a separate development path from the main project history.
+## Branch Experiment
+
+I am currently working on:
+
+```bash
+feature/test-branch
+```
+
+This change is intentionally made only on the feature branch.
