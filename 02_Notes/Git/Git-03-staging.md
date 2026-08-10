@@ -32,7 +32,7 @@ Adds all files to the Staging Area.
 git commit -m "Initial commit"
 ```
 Creates a snapshot of the staged changes in the Git history.
-git g
+
 ## Notes
 
 Git does not commit files directly.
