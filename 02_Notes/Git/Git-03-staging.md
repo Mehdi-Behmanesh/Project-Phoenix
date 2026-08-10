@@ -33,6 +33,7 @@ git commit -m "Initial commit"
 ```
 Creates a snapshot of the staged changes in the Git history.
 
+
 ## Notes
 
 Git does not commit files directly.
