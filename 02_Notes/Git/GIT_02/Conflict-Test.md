@@ -2,4 +2,4 @@
 
 ## Message
 
-This line will be changed in two branches.
+This line was changed on CONFLICT-TEST.
