@@ -33,3 +33,8 @@ pull = fetch + merge
 ## GitHub Change
 
 This line was added directly on GitHub.
+git fetch
+= اطلاعات Commitهای Remote را بگیر، پروژه را تغییر نده.
+
+git pull
+= اطلاعات Remote را بگیر + تغییرات را وارد Branch فعلی کن.
