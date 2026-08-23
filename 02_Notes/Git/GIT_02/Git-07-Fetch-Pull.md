@@ -41,3 +41,4 @@ git pull
 ## Git Diff
 
 I am learning how Git tracks changes.
+This line was added after staging.
