@@ -38,3 +38,6 @@ git fetch
 
 git pull
 = اطلاعات Remote را بگیر + تغییرات را وارد Branch فعلی کن.
+## Git Diff
+
+I am learning how Git tracks changes.
